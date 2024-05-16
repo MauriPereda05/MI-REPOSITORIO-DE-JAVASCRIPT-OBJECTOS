@@ -21,6 +21,12 @@ persona.country = 'Mexico';
 
 console.log(persona);
 
+// Modificar valores al objeto
+
+persona.age = 23;
+
+console.log(persona);
+
 // Eliminar valores
 
 delete persona.lastName;
